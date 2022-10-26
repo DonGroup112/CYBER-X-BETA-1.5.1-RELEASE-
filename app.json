@@ -8,72 +8,72 @@
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "923145151029,923440480244"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
 			"required": true,
-			"value": "CYBER-X BETA 1.5"
+			"value": "𝗕𝗢𝗧 𝗕𝗬 𝗗𝗢𝗡"
 			},
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "923075859229"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "𝗗𝗢𝗡 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "𝗗𝗢𝗡 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
 			"required": true,
-			"value": "ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
+			"value": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴏɴ"
 			},
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/8d45a22e1f24d82f127bc.jpg"
 			},
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
 			"required": true,
-			"value": "Hellow I'm Alive"
+			"value": "🌸𝙞̈"𝙢 𝘼𝙇𝙞𝙫𝙚 𝘿𝙪𝙀 𝙩𝙊 𝙇𝙚𝙂𝙚𝙣𝙙𝙖𝙍𝙮 𝘿𝙤𝙉 ➪& 𝙞"𝙢 𝙌𝙪𝙧𝙚𝙨𝙝𝙞𝙞 3𝙩7💫"
 			},
 			"MENU_IMAGE": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/8d45a22e1f24d82f127bc.jpg"
 			},
 			"WELCOME_IMAGE": {
 			"description": "Add Your Welcome Image",
 			"required": true,
-			"value": "https://telegra.ph/file/ec6ee52c715d16837c7ca.jpg"
+			"value": "https://telegra.ph/file/8d45a22e1f24d82f127bc.jpg"
 			},
 			"GOODBYE_IMAGE": {
 			"description": "Add Your Goodbye Image",
 			"required": true,
-			"value": "https://telegra.ph/file/4a576ba9ee45994d62aaa.jpg"
+			"value": "https://telegra.ph/file/8d45a22e1f24d82f127bc.jpg"
 			},
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
+			"value": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴏɴ"
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
 			"required": true,
-			"value": "https://github.com/darkalphaxteam"
+			"value": "https://github.com/DonGroup112"
 			},
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94711421243"
+			"value": "923145151029,923440480244"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
@@ -88,12 +88,12 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "𝗗𝗢𝗡 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
 			"required": true,
-			"value": "Sri Lanka, Kurunagala, Nikaweratiya"
+			"value": "Bagh Azad Kashmir "
 			},
 			"CALL_BLOCK": {
 			"description": "Call Block system",
@@ -108,11 +108,11 @@
 			"THEME_EMOJI": {
 			"description": "Add Your Favorite Emoji",
 			"required": true,
-			"value": "⛽"
+			"value": "😉"
 			},
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
-			"required": true,
+			"required": false,
 			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
 			}
 			
