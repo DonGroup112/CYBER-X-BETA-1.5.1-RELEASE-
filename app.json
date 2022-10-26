@@ -112,7 +112,7 @@
 			},
                         "ONLY_GROUP": {
 			"description": "Works in only group",
-			"required": true,
+			"required": false,
 			"value": "false"
 			}
      
