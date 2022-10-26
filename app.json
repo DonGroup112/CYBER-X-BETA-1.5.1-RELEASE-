@@ -96,12 +96,12 @@
 			"DEPLOYER_NAME": {
 			"description": "🅳🅾🅽",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "𝗗𝗢𝗡 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟"
 			},
 			"LOCAION": {
 			"description": "Add Your Location",
 			"required": true,
-			"value": "Sri Lanka, Kurunagala, Nikaweratiya"
+			"value": "BAGH AZAD KASHMIR"
 			},
 			"CALL_BLOCK": {
 			"description": "Call Block system",
@@ -116,12 +116,12 @@
 			"THEME_EMOJI": {
 			"description": "Add Your Favorite Emoji",
 			"required": true,
-			"value": "⛽"
+			"value": "😘"
 			},
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
-			"required": true,
-			"value": "*ᴄʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
+			"required": false,
+			"value": "*"
 			}
 			
           },
