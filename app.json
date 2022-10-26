@@ -110,10 +110,10 @@
 			"required": true,
 			"value": "⛽"
 			},
-                        "INBOX_MSG": {
-			"description": "Add Your Inbox Back Massage",
-			"required": false,
-			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
+                        "ONLY_GROUP": {
+			"description": "Works in only group",
+			"required": true,
+			"value": "false"
 			}
      
           },
