@@ -112,7 +112,7 @@
 			},
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
-			"required": true,
+			"required": false,
 			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
 			}
 			
